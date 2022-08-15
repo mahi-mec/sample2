@@ -1,9 +1,15 @@
-git add -- Added file to staging area
-git branch login -- Created a new branch called login 
-git checkout login -- Switched to login branch
-git checkout master -- Switched to master branch
-git merge login -- Merge login branch to master branch
-git remote -- Initializing remote
-git remote add origin http://github.com/mahi-mec/sample2.git -- Setting the remote repo origin
-git push -u origin master -- Pusing the files to repo 
+git add fileName--> Adds file to staging area
+git add . --> Adds all files to staging area
+git rm --cached fileName --> Removes file from staging area
+git commit -m 'initialCommit' --> commits the file from the staging area
+git branch login --> Created a new branch called login 
+git checkout login --> Switched to login branch
+git checkout master --> Switched to master branch
+git merge login --> Merge login branch to master branch
+git remote --> Initializing remote
+git remote add origin http://github.com/mahi-mec/sample2.git --> Setting the remote repo origin
+git push -u origin master --> Pusing the files to repo 
+git config --global user.name 'xxxxx' --> Adding user name
+fir config --global user.email 'xxxxx@gmail.com'
+git config --global -e --> Displays the assigned user details
 
