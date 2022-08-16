@@ -9,7 +9,7 @@ git merge login --> Merge login branch to master branch
 git remote --> Initializing remote
 git remote add origin http://github.com/mahi-mec/sample2.git --> Setting the remote repo origin
 git push -u origin master --> Pusing the files to repo 
-git config --global user.name 'xxxxx' --> Adding user name
-fir config --global user.email 'xxxxx@gmail.com'
+git config --global user.name 'xxxxx' --> Adds user name
+fir config --global user.email 'xxxxx@gmail.com' --> Adds user email
 git config --global -e --> Displays the assigned user details
 
