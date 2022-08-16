@@ -12,4 +12,7 @@ git push -u origin master --> Pusing the files to repo
 git config --global user.name 'xxxxx' --> Adds user name
 fir config --global user.email 'xxxxx@gmail.com' --> Adds user email
 git config --global -e --> Displays the assigned user details
+git pull --> Fetching from remote repo and Merging to local repo
+(git fetch + git merge)
+git fetch --> It is safer as it pulls in all the commits from remote but doesn't make any changes to local files
 
