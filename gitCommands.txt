@@ -17,3 +17,5 @@ git pull --> Fetching from remote repo and Merging to local repo
 git fetch --> It is safer as it pulls in all the commits from remote but doesn't make any changes to local files
 git clone --> Cloning repos to local system from remote repos
 
+Sai Mahendra Kumar Chakravarthy
+
